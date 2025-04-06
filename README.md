@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... Carlos Manriquez</p>
+<p align="left">My name is ... Carlos Manriquez¡Hola! Soy Carlos Manriquez, un apasionado de la programación y el hacking ético. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear soluciones innovadoras y desentrañar los misterios que esconden los sistemas informáticos.Mi viaje en la programación comenzó con [tu primer lenguaje de programación o proyecto], y desde entonces he explorado diversas tecnologías y herramientas. Me encanta aprender y aplicar mis conocimientos para mejorar la ciberseguridad y ayudar a otros a entender mejor cómo protegerse en el mundo digital.En mi tiempo libre, disfruto participar en retos de CTF (Capture The Flag) y colaborar en proyectos de código abierto. Siempre estoy en busca de nuevas oportunidades para crecer y contribuir a la comunidad tech.¡Conéctate conmigo y exploremos juntos el emocionante mundo de la programación y la ciberseguridad!Si deseas personalizarlo más o añadir alguna información extra, no dudes en decírmelo.</p>
 
 ###
 
